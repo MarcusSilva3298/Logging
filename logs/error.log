@@ -1,0 +1,60 @@
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T13:08:47.094Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T13:31:03.049Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T13:31:58.482Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T13:32:18.813Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T13:32:22.673Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T14:40:59.898Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T14:44:29.741Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:20:49.626Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:21:02.182Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:21:08.454Z'
+}

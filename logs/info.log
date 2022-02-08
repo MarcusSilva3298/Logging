@@ -1,0 +1,60 @@
+{
+  message: 'Soma válida',
+  level: 'info',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T14:56:16.376Z'
+}
+{
+  message: 'infor test',
+  level: 'info',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:20:49.592Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:20:49.626Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:20:49.626Z'
+}
+{
+  message: 'infor test',
+  level: 'info',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:21:02.176Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:21:02.180Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:21:02.182Z'
+}
+{
+  message: 'infor test',
+  level: 'info',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:21:08.448Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:21:08.454Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:21:08.454Z'
+}

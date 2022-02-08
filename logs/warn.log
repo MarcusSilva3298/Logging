@@ -1,0 +1,120 @@
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T13:08:47.094Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T13:08:47.094Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T13:31:03.048Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T13:31:03.049Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T13:31:58.481Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T13:31:58.482Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T13:32:18.811Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T13:32:18.813Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T13:32:22.672Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T13:32:22.673Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T14:40:59.897Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T14:40:59.898Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T14:44:29.741Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T14:44:29.741Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:20:49.626Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:20:49.626Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:21:02.180Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:21:02.182Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:21:08.454Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T16:21:08.454Z'
+}
