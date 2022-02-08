@@ -6,7 +6,7 @@ const port = 8000
 app.listen(port, () => {
   console.log(`Server listening in port ${port}! 🚀`)
 
-  logger.info('infor test')
+  logger.info('info test')
   logger.warn('alert test')
   logger.error('error test')
 })

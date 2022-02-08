@@ -58,3 +58,183 @@
   LoggerName: 'Test logger',
   timestamp: '2022-02-08T16:21:08.454Z'
 }
+{
+  message: 'infor test',
+  level: 'info',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:53:32.433Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:53:32.459Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:53:32.462Z'
+}
+{
+  message: 'infor test',
+  level: 'info',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:54:28.920Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:54:28.926Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:54:28.927Z'
+}
+{
+  message: 'infor test',
+  level: 'info',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:54:40.901Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:54:40.908Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:54:40.908Z'
+}
+{
+  message: 'infor test',
+  level: 'info',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:54:58.125Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:54:58.128Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:54:58.129Z'
+}
+{
+  message: 'info test',
+  level: 'info',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:55:16.030Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:55:16.036Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:55:16.037Z'
+}
+{
+  message: 'info test',
+  level: 'info',
+  service: 'Test logger',
+  timestamp: '2022-02-08T17:55:48.990Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  service: 'Test logger',
+  timestamp: '2022-02-08T17:55:48.996Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  service: 'Test logger',
+  timestamp: '2022-02-08T17:55:48.997Z'
+}
+{
+  message: 'info test',
+  level: 'info',
+  service: 'Test logger',
+  timestamp: '2022-02-08T17:57:05.569Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  service: 'Test logger',
+  timestamp: '2022-02-08T17:57:05.577Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  service: 'Test logger',
+  timestamp: '2022-02-08T17:57:05.578Z'
+}
+{
+  message: 'info test',
+  level: 'info',
+  service: 'Test logger',
+  timestamp: '2022-02-08T17:58:05.053Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  service: 'Test logger',
+  timestamp: '2022-02-08T17:58:05.058Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  service: 'Test logger',
+  timestamp: '2022-02-08T17:58:05.059Z'
+}
+{
+  message: 'info test',
+  level: 'info',
+  service: 'Test logger',
+  timestamp: '2022-02-08T18:58:46.734Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  service: 'Test logger',
+  timestamp: '2022-02-08T18:58:46.739Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  service: 'Test logger',
+  timestamp: '2022-02-08T18:58:46.744Z'
+}
+{
+  message: 'info test',
+  level: 'info',
+  service: 'Test logger',
+  timestamp: '2022-02-08T19:00:56.327Z'
+}
+{
+  message: 'alert test',
+  level: 'warn',
+  service: 'Test logger',
+  timestamp: '2022-02-08T19:00:56.331Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  service: 'Test logger',
+  timestamp: '2022-02-08T19:00:56.332Z'
+}

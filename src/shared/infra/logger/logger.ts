@@ -7,29 +7,19 @@ const levels = {
 }
 
 export const logger = createLogger({
-  defaultMeta: { LoggerName: 'Test logger' },
+  defaultMeta: { service: 'Test logger' },
   levels: levels,
   format: format.combine(
     format.timestamp(),
     format.json()
   ),
   transports: [
-    new transports.Console(
-      {
-        format: format.combine(
-          format.colorize(),
-          format.simple()
-        )
-      }
-    ),
-    new transports.File(
-      {
-        filename: 'error.log',
-        level: 'error',
-        dirname: 'logs',
-        format: format.prettyPrint()
-      }
-    ),
+    new transports.File({
+      filename: 'error.log',
+      level: 'error',
+      dirname: 'logs',
+      format: format.prettyPrint()
+    }),
     new transports.File({
       filename: 'warn.log',
       level: 'warn',
@@ -42,14 +32,25 @@ export const logger = createLogger({
       dirname: 'logs',
       format: format.prettyPrint()
     })
+  ],
+  exceptionHandlers: [
+    new transports.File({
+      filename: 'exception.log',
+      dirname: 'logs',
+      format: format.prettyPrint()
+    })
+  ],
+  rejectionHandlers: [
+    new transports.File({
+      filename: 'rejections.log',
+      dirname: 'logs',
+      format: format.prettyPrint()
+    })
   ]
-  // exceptionHandlers: [
-  //   new transports.File({ filename: 'exception.log', dirname: 'logs' })
-  // ],
-  // rejectionHandlers: [
-  //   new transports.File({ filename: 'rejections.log', dirname: 'logs' }),
-  //   new transports.Console()
-  // ],
-  // handleRejections: true,
-  // handleExceptions: true
 })
+
+if (process.env.NODE_ENV !== 'production') {
+  logger.add(new transports.Console({
+    format: format.combine(format.colorize(), format.simple())
+  }))
+}

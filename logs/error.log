@@ -58,3 +58,63 @@
   LoggerName: 'Test logger',
   timestamp: '2022-02-08T16:21:08.454Z'
 }
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:53:32.462Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:54:28.927Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:54:40.908Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:54:58.129Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  LoggerName: 'Test logger',
+  timestamp: '2022-02-08T17:55:16.037Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  service: 'Test logger',
+  timestamp: '2022-02-08T17:55:48.997Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  service: 'Test logger',
+  timestamp: '2022-02-08T17:57:05.578Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  service: 'Test logger',
+  timestamp: '2022-02-08T17:58:05.059Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  service: 'Test logger',
+  timestamp: '2022-02-08T18:58:46.744Z'
+}
+{
+  message: 'error test',
+  level: 'error',
+  service: 'Test logger',
+  timestamp: '2022-02-08T19:00:56.332Z'
+}
